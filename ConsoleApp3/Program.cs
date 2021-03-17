@@ -27,5 +27,10 @@ namespace ConsoleApp3
         {
 
         }
+
+        public void SayOriginalDance()
+        {
+
+        }
     }
 }
