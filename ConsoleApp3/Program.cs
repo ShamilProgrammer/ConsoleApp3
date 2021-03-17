@@ -17,5 +17,15 @@ namespace ConsoleApp3
         {
             var join = 10;
         }
+
+        private void ToSleep()
+        {
+
+        }
+
+        private void Tiidi()
+        {
+
+        }
     }
 }
