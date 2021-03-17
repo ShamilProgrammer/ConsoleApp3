@@ -12,5 +12,10 @@ namespace ConsoleApp3
         {
 
         }
+
+        private void ToDo()
+        {
+            var join = 10;
+        }
     }
 }
